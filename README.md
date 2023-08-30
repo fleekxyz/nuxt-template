@@ -1,6 +1,6 @@
 # Nuxt + IPFS Starter Kit
 
-![preview](./.github/preview.png)
+![image](https://github.com/fleekxyz/nuxt-template/assets/73345016/9cf97b97-c67c-4b39-825e-14b762798329)
 
 ## 🚀 Project Structure
 
