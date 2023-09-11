@@ -2,6 +2,8 @@
 
 ![image](https://github.com/fleekxyz/nuxt-template/assets/55561695/b0e80c95-2e51-4591-ac34-963f9ee81872)
 
+Static site starter application built on Nuxt. Output directory set to `.output/public` and build command `pnpm install && pnpm generate`.
+
 ## 🚀 Project Structure
 
 Inside of your Nuxt project, you'll see the following folders and files:
