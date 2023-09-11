@@ -16,7 +16,7 @@ Inside of your Nuxt project, you'll see the following folders and files:
 └── package.json
 ```
 
-If you want to learn more about `Nuxt`, you can checkout the official [Nuxt Documentation](https://nuxt.com/docs).
+If you want to learn more about `Nuxt` you can checkout the official [Nuxt Documentation](https://nuxt.com/docs).
 
 ## 🧞 Commands
 
